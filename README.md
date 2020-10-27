@@ -3,7 +3,7 @@
 
 1) For start need type in console "node index".
 
-2) Going throw instructions in console.
+2) Going through instructions in console..
 
 **Rules of typing:**
 1) Only ENG Letters.
